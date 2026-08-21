@@ -1,0 +1,6 @@
+{
+  "name": "智能装修设备方案定制",
+  "description": "全屋智能量化方案定制与工程交付平台：支持个人方案模板库与复用、个人方案记录管理、一键联系商务人员下单、实时跟进订单发货与物流状态，提供空间设备选配、BOM清单生成与Web后台管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
